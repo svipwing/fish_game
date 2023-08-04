@@ -1,37 +1,17 @@
-# 吃掉小鱼游戏
+# 吃掉小鱼游戏（python）
 
-#### 介绍
-快速按下按键，吃掉小鱼！
+## 前言
 
-#### 软件架构
-软件架构说明
+该游戏为本人采用python语言制作，版权归我所有！禁止抄袭！
 
+## 玩法介绍
 
-#### 安装教程
+玩法和打音游差不多，有一个鱼塘列表，底部会有一行数字，看倒数第二行的每一列，找到小鱼，然后往小鱼下方看，记住对应的数字编号，在键盘上输入，最后回车即可
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+注意，游戏有倒计时限制，程序会自动记录你输入数字时的耗时，不可超过2秒，否则游戏结束。
 
-#### 使用说明
+如果数字输入错误，游戏结束。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 上代码
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+把代码扔到python环境里运行就好了，不需要第三方库，全部是python内置库
